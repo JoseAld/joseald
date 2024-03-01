@@ -24,3 +24,10 @@
   <img align="center" alt="vscode" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
  />
  
+### I`M LEARNING:
+<div style="display: inline_block">
+  <img align="center" alt="python" src=https://img.shields.io/badge/python-FFFF33?style=for-the-badge&logo=python%20studio%20code&logoColor=white
+ />
+
+  
+ 
